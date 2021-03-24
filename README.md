@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-- 🔭 I’m currently working on navedexAPI on nodejs
+- 🔭 I’m currently working on webscrape
 
 
 <!--
