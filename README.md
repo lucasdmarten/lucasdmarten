@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-- 🔭 I’m currently working on web scrapring
+- 🔭 I’m currently working on my Final Monograph (Undergraduate) ...
 
 
 <!--
